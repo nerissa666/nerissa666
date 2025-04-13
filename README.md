@@ -1,16 +1,13 @@
-## Hi there 👋
+## HELLO WORLD！
 
-<!--
-**nerissa666/nerissa666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The way to say hi:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+<li>你好</li>
+<li>hello</li>
+<li>สวัสดี</li>
+<li>Salut</li>
+<li>Hallo</li>
+<li>안녕하세요</li>
+<li>你好</li>
+</ul>
