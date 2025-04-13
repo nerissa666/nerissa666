@@ -1,6 +1,6 @@
 ## HELLO WORLD！👋
 
-The way to say hi?
+The way to say hi ?
 
 <ul>
 <li>你好  🍬</li>
