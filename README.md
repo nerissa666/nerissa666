@@ -14,5 +14,5 @@ The way to say hi ?
 
 <h3>issue</h3>
 <ul>
-<li>forEach: `len` remains constant, meaning it changes only with the number of iterations, while the array itself is actually updated in real time？？？ </li>
+<li>forEach: `len` remains constant, meaning it changes only with the number of iterations, while the array itself is actually updated in real time. </li>
 </ul>
