@@ -1,4 +1,4 @@
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nerissa666&bg_color=0D1117&color=00FF99&line=9945FF&point=FFFFFF&hide_border=true" width="20%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nerissa666&bg_color=0D1117&color=00FF99&line=9945FF&point=FFFFFF&hide_border=true" width="30%"/>
 
 
 ## HELLO WORLD！👋
